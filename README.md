@@ -10,4 +10,9 @@ This beacon can be used to mark position of a night geocache.
 * Low power sleep between samples (0.2uA)
 * Can by powered with two AA or AAA batteries for a year
 
+
+## Wiring
+
+![Wiring diagram](https://github.com/panjanek/geocaching-reactive-flasher/blob/b9f42691baef01207d7531b71590866389811b94/img/wiring.png "wiring diagram")
+
   
